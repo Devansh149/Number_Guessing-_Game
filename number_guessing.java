@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 public class prc
+public class number_guessing
 {
     static int number;
     public static void main(String[] args)
